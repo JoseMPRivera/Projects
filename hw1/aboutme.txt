@@ -1,0 +1,15 @@
+Your name: Jose M. Perez
+Your student ID: 013505869
+Your major: Computer Science
+Your preferred email address: jose.perezrivera@sjsu.edu
+Check one: [x] Undergraduate, [ ] Graduate, [ ] Open university
+Graduating senior? [ ] Yes, [x] No
+Repeating the class? [ ] Yes, [x] No
+Place and semester where you took a programming course in Java: SJSU, Fall 2018
+Course number and grade received: CS 49J, B
+Place and semester where you took a course in data structures: Reedley College, Spring 2016
+Course number and grade received: A
+Time it took you to answer the two questions below: 7 hour 50 minutes
+Did you ask anyone for help? [ ] Yes, [x] No
+Preferred section (if adding): [ ] 3, [ ] 4, [ ] 6
+Other acceptable sections (if adding): 
